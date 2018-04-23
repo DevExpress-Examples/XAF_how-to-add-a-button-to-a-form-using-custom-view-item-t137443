@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="14.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="14.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="Contact_DetailView">
+      <Items>
+        <ButtonDetailViewItemWin Id="My Button" IsNewNode="True" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="30.445246690734056">
+            <LayoutGroup Id="Person" Index="0" RelativeSize="47.826086956521742">
+              <LayoutGroup Id="Person_col1" RelativeSize="48.51063829787234">
+                <LayoutItem Id="FirstName" SizeConstraintsType="Default" RelativeSize="36.363636363636367" />
+                <LayoutItem Id="LastName" SizeConstraintsType="Default" RelativeSize="27.272727272727273" />
+                <LayoutItem Id="MiddleName" SizeConstraintsType="Default" RelativeSize="36.363636363636367" />
+              </LayoutGroup>
+              <LayoutGroup Id="Person_col2" RelativeSize="48.368794326241137">
+                <LayoutItem Id="Birthday" SizeConstraintsType="Default" RelativeSize="36.363636363636367" />
+                <LayoutItem Id="FullName" SizeConstraintsType="Default" RelativeSize="27.272727272727273" />
+                <LayoutItem Id="Email" SizeConstraintsType="Default" RelativeSize="36.363636363636367" />
+              </LayoutGroup>
+            </LayoutGroup>
+            <LayoutGroup Id="Auto9af2a63e-91c9-47b4-9935-c6412f73e584" ShowCaption="False" Caption="" Direction="Horizontal" Index="1" RelativeSize="9.4861660079051386" IsNewNode="True">
+              <LayoutItem Id="My Button" ViewItem="My Button" SizeConstraintsType="Default" Index="0" RelativeSize="49.9290780141844" IsNewNode="True" />
+              <LayoutItem Id="Item1" ShowCaption="False" ViewItem="" SizeConstraintsType="Default" Index="1" RelativeSize="50.0709219858156" IsNewNode="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="Party" RelativeSize="42.687747035573125">
+              <LayoutItem Id="Photo" SizeConstraintsType="Default" RelativeSize="27.777777777777779" />
+              <LayoutItem Id="Address1" SizeConstraintsType="Default" RelativeSize="22.222222222222221" />
+              <LayoutItem Id="Address2" SizeConstraintsType="Default" RelativeSize="22.222222222222221" />
+              <LayoutItem Id="DisplayName" SizeConstraintsType="Default" RelativeSize="27.777777777777779" />
+            </LayoutGroup>
+          </LayoutGroup>
+          <LayoutGroup Id="PhoneNumbers_Group" Direction="Vertical" RelativeSize="69.554753309265948">
+            <LayoutItem Id="PhoneNumbers" SizeConstraintsType="Default" RelativeSize="94.290657439446363" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

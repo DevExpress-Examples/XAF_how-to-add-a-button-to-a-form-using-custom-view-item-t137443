@@ -1,0 +1,7 @@
+{
+  "main": "widget.js",
+  "files": [
+    "template.html",
+    "widget.css"
+  ]
+}

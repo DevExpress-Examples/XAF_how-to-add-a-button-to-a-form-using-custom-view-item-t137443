@@ -1,0 +1,1 @@
+﻿<%@ WebHandler Language="vb" CodeBehind="ResourcesHttpHandler.ashx.vb" Class="MySolution..Mobile.ResourcesHttpHandler" %>
