@@ -16,7 +16,6 @@ Namespace MySolution.Module.Win
 
         Public Sub New(ByVal model As IModelViewItem, ByVal objectType As Type)
             MyBase.New(objectType, model.Id)
-            CreateControl()
         End Sub
         Protected Overrides Function CreateControlCore() As Object
             Dim button As New Button()

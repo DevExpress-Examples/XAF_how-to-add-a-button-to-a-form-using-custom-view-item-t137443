@@ -9,10 +9,7 @@ namespace MySolution.Module.Win {
 
     [ViewItemAttribute(typeof(IModelButtonDetailViewItemWin))]
     public class ButtonDetailViewItemWin : ViewItem {
-        public ButtonDetailViewItemWin(IModelViewItem model, Type objectType)
-            : base(objectType, model.Id) {
-            CreateControl();
-        }
+        public ButtonDetailViewItemWin(IModelViewItem model, Type objectType) : base(objectType, model.Id) { }
         protected override object CreateControlCore() {
             Button button = new Button();
             button.Text = "Click me!";

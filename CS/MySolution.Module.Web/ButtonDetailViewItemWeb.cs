@@ -9,10 +9,7 @@ namespace MySolution.Module.Web {
 
     [ViewItemAttribute(typeof(IModelButtonDetailViewItemWeb))]
     public class ButtonDetailViewItemWeb : ViewItem {
-        public ButtonDetailViewItemWeb(IModelViewItem model, Type objectType)
-            : base(objectType, model.Id) {
-            CreateControl();
-        }
+        public ButtonDetailViewItemWeb(IModelViewItem model, Type objectType) : base(objectType, model.Id) { }
         protected override object CreateControlCore() {
             ASPxButton button = new ASPxButton();
             button.Text = "Click me!";
