@@ -1,9 +1,6 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [template.html](./CS/MySolution.Mobile/Static/modules/simpleButton/template.html) (VB: [template.html](./VB/MySolution.Mobile/Static/modules/simpleButton/template.html))
-* [widget.js](./CS/MySolution.Mobile/Static/modules/simpleButton/widget.js) (VB: [widget.js](./VB/MySolution.Mobile/Static/modules/simpleButton/widget.js))
-* [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Mobile/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Mobile/Model.DesignedDiffs.xafml))
 * [ButtonDetailViewItemWeb.cs](./CS/MySolution.Module.Web/ButtonDetailViewItemWeb.cs) (VB: [ButtonDetailViewItemWeb.vb](./VB/MySolution.Module.Web/ButtonDetailViewItemWeb.vb))
 * [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Web/Model.DesignedDiffs.xafml))
 * [ButtonDetailViewItemWin.cs](./CS/MySolution.Module.Win/ButtonDetailViewItemWin.cs) (VB: [ButtonDetailViewItemWin.vb](./VB/MySolution.Module.Win/ButtonDetailViewItemWin.vb))
