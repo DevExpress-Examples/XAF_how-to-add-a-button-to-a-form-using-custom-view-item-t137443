@@ -1,11 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MobileApplication.cs](./CS/MySolution.Mobile/MobileApplication.cs) (VB: [MobileApplication.vb](./VB/MySolution.Mobile/MobileApplication.vb))
 * [module.json](./CS/MySolution.Mobile/Static/modules/simpleButton/module.json) (VB: [module.json](./VB/MySolution.Mobile/Static/modules/simpleButton/module.json))
 * [template.html](./CS/MySolution.Mobile/Static/modules/simpleButton/template.html) (VB: [template.html](./VB/MySolution.Mobile/Static/modules/simpleButton/template.html))
 * [widget.js](./CS/MySolution.Mobile/Static/modules/simpleButton/widget.js) (VB: [widget.js](./VB/MySolution.Mobile/Static/modules/simpleButton/widget.js))
-* [ButtonDetailViewItemMobile.cs](./CS/MySolution.Module.Mobile/ButtonDetailViewItemMobile.cs) (VB: [ButtonDetailViewItemMobile.vb](./VB/MySolution.Module.Mobile/ButtonDetailViewItemMobile.vb))
 * [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Mobile/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Mobile/Model.DesignedDiffs.xafml))
 * [ButtonDetailViewItemWeb.cs](./CS/MySolution.Module.Web/ButtonDetailViewItemWeb.cs) (VB: [ButtonDetailViewItemWeb.vb](./VB/MySolution.Module.Web/ButtonDetailViewItemWeb.vb))
 * [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Web/Model.DesignedDiffs.xafml))
