@@ -1,7 +1,6 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [module.json](./CS/MySolution.Mobile/Static/modules/simpleButton/module.json) (VB: [module.json](./VB/MySolution.Mobile/Static/modules/simpleButton/module.json))
 * [template.html](./CS/MySolution.Mobile/Static/modules/simpleButton/template.html) (VB: [template.html](./VB/MySolution.Mobile/Static/modules/simpleButton/template.html))
 * [widget.js](./CS/MySolution.Mobile/Static/modules/simpleButton/widget.js) (VB: [widget.js](./VB/MySolution.Mobile/Static/modules/simpleButton/widget.js))
 * [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Mobile/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Mobile/Model.DesignedDiffs.xafml))
