@@ -1,6 +1,6 @@
 # XAF - Add a Custom Button to a Form (WinForms and ASP.NET WebForms)
 
-This example demonstrates how to add a custom control to a Detail View. If you want to display standard [XAF Actions](xref:112622) in a Detail View, use the technique described in the following topic: [How to: Include an Action to a Detail View Layout](https://docs.devexpress.com/eXpressAppFramework/112816/ui-construction/view-items-and-property-editors/how-to-include-an-action-to-a-detail-view-layout). 
+This example demonstrates how to add a custom control to a Detail View. If you want to display standard [XAF Actions](https://docs.devexpress.com/eXpressAppFramework/112622/ui-construction/controllers-and-actions/actions) in a Detail View, use the technique described in the following topic: [How to: Include an Action to a Detail View Layout](https://docs.devexpress.com/eXpressAppFramework/112816/ui-construction/view-items-and-property-editors/how-to-include-an-action-to-a-detail-view-layout). 
 
 See the following help topic for more information: [How to: Use a Custom View Item to Add a Button to a Detail View](https://docs.devexpress.com/eXpressAppFramework/113653/ui-construction/view-items-and-property-editors/how-to-add-a-button-to-a-detail-view-using-custom-view-item).
 
