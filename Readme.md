@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T137443)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# XAF - Add a Custom Button to a Form (WinForms and ASP.NET WebForms)
+# XAF - Add a Custom Button to a Form (WinForms)
 
 This example demonstrates how to add a custom control to a Detail View. If you want to display standard [XAF Actions](https://docs.devexpress.com/eXpressAppFramework/112622/ui-construction/controllers-and-actions/actions) in a Detail View, use the technique described in the following topic: [How to: Include an Action to a Detail View Layout](https://docs.devexpress.com/eXpressAppFramework/112816/ui-construction/view-items-and-property-editors/how-to-include-an-action-to-a-detail-view-layout). 
 
@@ -11,12 +11,8 @@ See the following help topic for more information: [How to: Use a Custom View It
 
 <!-- default file list -->
 *Files to look at*:
-
-* [ButtonDetailViewItemWeb.cs](./CS/MySolution.Module.Web/ButtonDetailViewItemWeb.cs) (VB: [ButtonDetailViewItemWeb.vb](./VB/MySolution.Module.Web/ButtonDetailViewItemWeb.vb))
-* [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Web/Model.DesignedDiffs.xafml))
-* [ButtonDetailViewItemWin.cs](./CS/MySolution.Module.Win/ButtonDetailViewItemWin.cs) (VB: [ButtonDetailViewItemWin.vb](./VB/MySolution.Module.Win/ButtonDetailViewItemWin.vb))
-* [Model.DesignedDiffs.xafml](./CS/MySolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/MySolution.Module.Win/Model.DesignedDiffs.xafml))
-* [BusinessModel.cs](./CS/MySolution.Module/BusinessObjects/BusinessModel.cs) (VB: [BusinessModel.vb](./VB/MySolution.Module/BusinessObjects/BusinessModel.vb))
+* [ButtonDetailViewItemWin.cs](CS/EFCore/ButtonInFormEF/ButtonInFormEF.Win/ButtonDetailViewItemWin.cs) 
+* [Model.xafml](CS/EFCore/ButtonInFormEF/ButtonInFormEF.Win/Model.xafml) 
 <!-- default file list end -->
 
 ## Documentation
@@ -27,3 +23,4 @@ See the following help topic for more information: [How to: Use a Custom View It
 ## More Examples
 * [How to: Use a Custom View Item to Add a Button to a Detail View (Blazor)](https://github.com/DevExpress-Examples/xaf-custom-view-item-blazor)
 * [How to: Create a Custom Control Detail Item (WinForms and ASP.NET WebForms)](https://github.com/DevExpress-Examples/XAF_how-to-create-a-custom-control-detail-item-t137193)
+* [XAF - Add a Custom Button to a Form (ASP.NET WebForms)](https://github.com/DevExpress-Examples/XAF_how-to-add-a-button-to-a-form-using-custom-view-item-t137443/tree/17.2.3+)
