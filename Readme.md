@@ -23,7 +23,6 @@ If you want to display standard [XAF Actions](https://docs.devexpress.com/eXpres
 
 ## More Examples
 * [How to: Use a Custom View Item to Add a Button to a Detail View (Blazor)](https://github.com/DevExpress-Examples/xaf-custom-view-item-blazor)
-* [How to: Create a Custom Control Detail Item (WinForms and ASP.NET WebForms)](https://github.com/DevExpress-Examples/XAF_how-to-create-a-custom-control-detail-item-t137193)
 * [XAF - Add a Custom Button to a Form (ASP.NET WebForms)](https://github.com/DevExpress-Examples/XAF_how-to-add-a-button-to-a-form-using-custom-view-item-t137443/tree/17.2.3+)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
