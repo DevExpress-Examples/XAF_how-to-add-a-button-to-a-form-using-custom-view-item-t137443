@@ -7,7 +7,7 @@
 
 This example adds a custom control to a Detail View. See the following help topic for more information: [How to: Use a Custom View Item to Add a Button to a Detail View](https://docs.devexpress.com/eXpressAppFramework/113653/ui-construction/view-items-and-property-editors/how-to-add-a-button-to-a-detail-view-using-custom-view-item).
 
-![custom-button-in-form](https://github.com/user-attachments/assets/20c97309-6dde-4239-9916-1ffb46794927)
+![custom-button-in-form](https://github.com/user-attachments/assets/9f66a6f3-5471-4ad4-bbd3-8e098f16591e)
 
 If you want to display standard [XAF Actions](https://docs.devexpress.com/eXpressAppFramework/112622/ui-construction/controllers-and-actions/actions) in a Detail View, use the technique described in the following topic: [How to: Include an Action to a Detail View Layout](https://docs.devexpress.com/eXpressAppFramework/112816/ui-construction/view-items-and-property-editors/how-to-include-an-action-to-a-detail-view-layout).
 
