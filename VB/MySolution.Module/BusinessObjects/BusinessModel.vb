@@ -1,9 +1,10 @@
-﻿Imports DevExpress.Persistent.Base
+Imports DevExpress.Persistent.Base
 Imports DevExpress.Persistent.BaseImpl
 Imports DevExpress.Xpo
 
 Namespace MySolution.Module.BusinessObjects
-    <DefaultClassOptions> _
+
+    <DefaultClassOptions>
     Public Class Contact
         Inherits Person
 
