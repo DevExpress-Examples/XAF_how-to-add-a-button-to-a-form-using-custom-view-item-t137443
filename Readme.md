@@ -13,7 +13,6 @@ This example adds a custom control to a Detail View. See the following help topi
 
 This is an advanced customization method that requires coding. Use it when you want to add an existing or custom control to the client area of a Detail View or Dashboard View. This approach allows you to obtain data from the current View object, if necessary. Your control can be unbound or can load data from external sources.
 
-
 If you want to bind a control to a business class property and add that control to both List View and Detail View, consider the [custom Property Editor approach](https://docs.devexpress.com/eXpressAppFramework/113097/ui-construction/view-items-and-property-editors/property-editors#custom-property-editors).
 
 This approach does not impose any restrictions on UI Control and XAF View interaction. You can implement custom logic in a `ViewController` or a custom UI control. [ViewItem](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Editors.ViewItem) descendants may implement their own inner logic.
@@ -39,4 +38,3 @@ To display standard [XAF Actions](https://docs.devexpress.com/eXpressAppFramewor
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
-
