@@ -33,7 +33,7 @@ To display standard [XAF Actions](https://docs.devexpress.com/eXpressAppFramewor
 * [How to: Use a Custom View Item to Add a Button to a Detail View (Blazor)](https://github.com/DevExpress-Examples/xaf-custom-view-item-blazor)
 * [XAF - Add a Custom Button to a Form (ASP.NET WebForms)](https://github.com/DevExpress-Examples/XAF_how-to-add-a-button-to-a-form-using-custom-view-item-t137443/tree/17.2.3+)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-win-add-custom-button-to-form-using-custom-view-item&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-win-add-custom-button-to-form-using-custom-view-item&~~~was_helpful=no)
 
